@@ -1,9 +1,4 @@
 
 public class Main {
-	//Maineexd Alec ^^
-	//SAMARCHE
-	//ouii
-	//abruti
-	//ghjfj
-	//blabla
+	//Blou bli bla ble blo
 }
